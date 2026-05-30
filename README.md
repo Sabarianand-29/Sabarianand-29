@@ -127,7 +127,7 @@ public class Sabarianand {
 ## 💼 Work Experience
 
 <details>
-<summary>🏁 <strong>Team Torque-X · Cost Lead & Treasurer · SAE E-Baja 2026 · Sirkali / Chennai</strong></summary>
+<summary>🏁 <strong>Team Torque-X · Cost Lead & Treasurer · SAE E-Baja 2026 · Chennai</strong></summary>
 
 > ![SAE](https://img.shields.io/badge/SAE_E--Baja-E62B1E?style=flat-square&logoColor=white)
 > ![Leadership](https://img.shields.io/badge/Leadership-0A66C2?style=flat-square&logoColor=white)
